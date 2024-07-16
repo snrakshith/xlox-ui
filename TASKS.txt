@@ -1,0 +1,6 @@
+- setup a git repo
+- setup a github action to automate
+- publish to npm
+- publish to storybook to github pages
+
+- setup a testing framework
