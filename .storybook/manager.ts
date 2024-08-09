@@ -22,8 +22,8 @@ const theme: ThemeVars = create({
     // inputBg: "#161616",
     // inputBorderRadius: 0,
 
-    brandTitle: "Ikure",
-    brandUrl: "https://dev.chw360.whimslive.com/auth/check-org",
+    brandTitle: "xloxui",
+    brandUrl: "https://xlox.in",
     brandImage:
         "https://dhcoreclientimages.s3.ap-south-1.amazonaws.com/acc-be/organization/logo1661582768033ZkFc3.png",
     brandTarget: "_self",

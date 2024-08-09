@@ -1,0 +1,5 @@
+.husky
+.storybook
+dist
+coverage
+node_modules

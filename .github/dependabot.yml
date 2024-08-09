@@ -1,5 +1,4 @@
-# Copyright The OpenTelemetry Authors
-# SPDX-License-Identifier: Apache-2.0
+# Copyright The XloxUI Authors
 version: 2
 updates:
   - package-ecosystem: "github-actions"
