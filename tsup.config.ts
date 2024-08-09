@@ -1,20 +1,14 @@
 import { defineConfig } from "tsup";
 
 export default defineConfig({
-  entry: [
-    "src/utils/index.ts",
-    "src/components/index.ts",
-    "src/types/index.ts",
-    "src/primitives/index.ts",
-    // "src/index.ts",
-  ],
+  entry: ["src/index.ts"],
   format: ["cjs", "esm"],
-  external: ["react", "styled-components"],
+  external: ["react"],
   dts: true,
   clean: true,
   sourcemap: false,
   splitting: false,
-  outDir: "./lib",
+  outDir: "./dist",
   // Code below is Experimental for handling path alias
 
   // entry: ["src/components/**/*.tsx"],

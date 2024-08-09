@@ -6,12 +6,10 @@
     "declaration.d.ts",
     "src/**/*.ts",
     "src/**/*.tsx",
-    "docs/test.tsx",
-    "docs/misc.tsx"
   ],
   "compilerOptions": {
-    "outDir": "lib",
-    "declarationDir": "lib",
+    "outDir": "dist",
+    "declarationDir": "dist",
     "declaration": true,
     "sourceMap": false,
     "esModuleInterop": true,
