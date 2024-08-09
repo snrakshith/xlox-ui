@@ -6,11 +6,8 @@ labels: enhancement
 
 # Feature Request
 
-Before opening a feature request against this repo, consider whether the feature
-should/could be implemented in the [other OpenTelemetry client
-libraries](https://github.com/open-telemetry/). If so, please [open an issue on
-opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification/issues/new)
-first.
+If you feel like something is missing, that wold make the product much better, Please Before consider opening a feature request against this repo. If so, [open an issue](https://github.com/snrakshith/xlox-ui/issues/new)
+
 
 **Is your feature request related to a problem?**
 

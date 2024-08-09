@@ -31,5 +31,4 @@ module.exports = {
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "import/no-unresolved": "off",
   },
-  // hi
 };
