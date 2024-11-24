@@ -9,7 +9,7 @@
     - standard release channel via .releaserc.json
 
 - setup a github action to automate
-    - publish to npm
+    - publish to npm with changelog generation
     - publish to storybook to github pages
 
 
@@ -35,3 +35,9 @@ husky
 ts-jest
 jest
 jest-environment-jsdom
+
+
+`testing also includes` <= check this packages for what they are used ?
+@babel/core
+@babel/preset-env
+babel-jest
